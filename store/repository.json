@@ -1,0 +1,21 @@
+{
+    "repoName": "ctOS Appstore",
+    "repoID": "ctOS_official",
+    "repoAliases": ["ctOS", "official"],
+    "repoVersion": "1.0.0",
+    "packages": {
+        "guitartab": {
+            "packageName": "Test Program",
+            "packageID": "testprogram",
+            "packageAliases": ["test", "program"],
+            "version": "1.0",
+            "packageType": "webApp",
+            "installURL": "store/test/test1.json",
+            "icon": {
+                "foreground": "store/icons/test1.png"
+            },
+            "description": "Test App for AaronOS."
+        },
+      
+    }
+}
