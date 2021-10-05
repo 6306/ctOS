@@ -7,7 +7,7 @@
         "webbrowse": {
             "packageName": "CTBrowser",
             "packageID": "webbrowse",
-            "packageAliases": [],
+            "packageAliases": ["browser"],
             "version": "1.0",
             "packageType": "webApp",
             "installURL": "repository/webapps/ctbrowser.json",
@@ -20,7 +20,7 @@
         "weather": {
             "packageName": "CTWeather",
             "packageID": "weather",
-            "packageAliases": [],
+            "packageAliases": ["ctweather"],
             "version": "1.0",
             "packageType": "webApp",
             "installURL": "repository/webapps/weather.json",
