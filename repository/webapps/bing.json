@@ -1,12 +1,12 @@
 {
-    "name": "Bing",
-    "id": "bing",
+    "name": "CTBrowser",
+    "id": "ctbrowse",
     "version": "1.0",
-    "abbreviation": "BNG",
+    "abbreviation": "CTB",
     "appType": "webApp",
-    "homeURL": "https://bing.com/",
+    "homeURL": "https://iframebrowser.neocities.org/iframe.html",
     "icon": {
-        "foreground": "appicons/ds/aOS.png"
+        "foreground": "repository/icons/ctbrowser.png"
     },
     "windowSize": [500, 400]
 }
