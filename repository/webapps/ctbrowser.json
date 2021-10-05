@@ -1,6 +1,6 @@
 {
     "name": "CTBrowser",
-    "id": "ctbrowse",
+    "id": "webbrowse",
     "version": "1.0",
     "abbreviation": "CTB",
     "appType": "webApp",
