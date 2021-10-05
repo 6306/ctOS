@@ -1,12 +1,12 @@
 {
-    "name": "Weather",
-    "id": "weather",
-    "version": "1.1",
-    "abbreviation": "Wtr",
+    "name": "CTWeather",
+    "id": "ctweather",
+    "version": "1.7",
+    "abbreviation": "CTW",
     "appType": "webApp",
-    "homeURL": "weather/",
+    "homeURL": "apps/ctweather/",
     "icon": {
-        "foreground": "appicons/ds/systemApp.png"
+        "foreground": "repository/icons/ctweather.png"
     },
     "windowSize": [700, 500],
     "manualOpen": 1
