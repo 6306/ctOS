@@ -1,7 +1,7 @@
 {
-    "repoName": "AaronOS Testing Repository",
-    "repoID": "aaronos_test",
-    "repoAliases": ["aaronos", "aos", "test"],
+    "repoName": "ctOS Repository",
+    "repoID": "ctOS_apps",
+    "repoAliases": ["CTOS", "ctOS", "official"],
     "repoVersion": "1.0",
     "packages": {
         "webbrowse": {
@@ -15,7 +15,7 @@
                 "foreground": "http://www.designtagebuch.de/wp-content/uploads/mediathek/2013/09/bing-b.jpg",
                 "backgroundColor": "#FFF"
             },
-            "description": "It's bing."
+            "description": "It's a web browser!"
         },
         "weather": {
             "packageName": "CTWeather",
