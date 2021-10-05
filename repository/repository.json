@@ -12,7 +12,7 @@
             "packageType": "webApp",
             "installURL": "repository/webapps/ctbrowser.json",
             "icon": {
-                "foreground": "repository/icons/ctbrowser.png",
+                "foreground": "https://raw.githubusercontent.com/moonprogram/ctOS/main/repository/icons/ctbrowser.png",
                 "backgroundColor": "#FFF"
             },
             "description": "It's a web browser!"
@@ -25,7 +25,7 @@
             "packageType": "webApp",
             "installURL": "repository/webapps/weather.json",
             "icon": {
-                "foreground": "repository/icons/aOS.png"
+                "foreground": "https://raw.githubusercontent.com/moonprogram/ctOS/main/repository/icons/ctweather.png"
             },
             "description": "Weather App for CTOS"
         }
