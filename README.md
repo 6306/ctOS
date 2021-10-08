@@ -3,3 +3,11 @@
 ctOS
 
 The New OS for any device.
+
+                      !NOTE!
+The repository folder is the ctOS app store for AaronOS.
+              Not the store for ctOS.
+
+
+OS is in the making.
+An online version will be out around Christmas.
