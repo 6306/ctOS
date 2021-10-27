@@ -1,10 +1,10 @@
 {
-    "name": "CTBrowser",
+    "name": "ctBrowser",
     "id": "webbrowse",
-    "version": "1.0",
-    "abbreviation": "CTB",
+    "version": "1.0.7",
+    "abbreviation": "ctB",
     "appType": "webApp",
-    "homeURL": "https://iframebrowser.neocities.org/iframe.html",
+    "homeURL": "http://altaica.altervista.org/widgets/browser/index.html",
     "icon": {
         "foreground": "https://raw.githubusercontent.com/moonprogram/ctOS/main/repository/icons/ctbrowser.png"
     },
