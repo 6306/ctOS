@@ -2,32 +2,20 @@
     "repoName": "ctOS Repository",
     "repoID": "ctOS_apps",
     "repoAliases": ["CTOS", "ctOS", "official"],
-    "repoVersion": "1.0",
+    "repoVersion": "1.0.2",
     "packages": {
         "webbrowse": {
-            "packageName": "CTBrowser",
+            "packageName": "ctBrowser",
             "packageID": "webbrowse",
             "packageAliases": ["browser"],
-            "version": "1.0",
+            "version": "1.0.7",
             "packageType": "webApp",
-            "installURL": "repository/webapps/ctbrowser.json",
+            "installURL": "https://raw.githubusercontent.com/6306/ctOS/main/repository/webapps/ctbrowser.json",
             "icon": {
                 "foreground": "https://raw.githubusercontent.com/moonprogram/ctOS/main/repository/icons/ctbrowser.png",
                 "backgroundColor": "#FFF"
             },
             "description": "It's a web browser!"
         },
-        "weather": {
-            "packageName": "CTWeather",
-            "packageID": "weather",
-            "packageAliases": ["ctweather"],
-            "version": "1.0",
-            "packageType": "webApp",
-            "installURL": "repository/webapps/weather.json",
-            "icon": {
-                "foreground": "https://raw.githubusercontent.com/moonprogram/ctOS/main/repository/icons/ctweather.png"
-            },
-            "description": "Weather App for CTOS"
-        }
     }
 }
