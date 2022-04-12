@@ -4,4 +4,4 @@ ctOS
 
 The New OS for any device.
 OS is in the making.
-An online version will be out around Christmas.
+Development for ctOS has been halted until further notice.
